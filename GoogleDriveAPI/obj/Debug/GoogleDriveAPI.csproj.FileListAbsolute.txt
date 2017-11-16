@@ -1,0 +1,9 @@
+E:\C#\GoogleDriveAPI\GoogleDriveAPI\bin\Debug\GoogleDriveAPI.exe.config
+E:\C#\GoogleDriveAPI\GoogleDriveAPI\bin\Debug\GoogleDriveAPI.exe
+E:\C#\GoogleDriveAPI\GoogleDriveAPI\bin\Debug\GoogleDriveAPI.pdb
+E:\C#\GoogleDriveAPI\GoogleDriveAPI\obj\Debug\GoogleDriveAPI.csprojResolveAssemblyReference.cache
+E:\C#\GoogleDriveAPI\GoogleDriveAPI\obj\Debug\GoogleDriveAPI.Properties.Resources.resources
+E:\C#\GoogleDriveAPI\GoogleDriveAPI\obj\Debug\GoogleDriveAPI.csproj.GenerateResource.Cache
+E:\C#\GoogleDriveAPI\GoogleDriveAPI\obj\Debug\GoogleDriveAPI.csproj.CoreCompileInputs.cache
+E:\C#\GoogleDriveAPI\GoogleDriveAPI\obj\Debug\GoogleDriveAPI.exe
+E:\C#\GoogleDriveAPI\GoogleDriveAPI\obj\Debug\GoogleDriveAPI.pdb
